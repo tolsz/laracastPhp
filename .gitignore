@@ -1,0 +1,3 @@
+/vendor/
+# The config.php file returns an array that includes a database array containing configuration data.
+config.php
